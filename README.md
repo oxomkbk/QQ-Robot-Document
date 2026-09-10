@@ -5,7 +5,7 @@
 > **来源**：https://bot.q.qq.com/wiki/develop/api-v2/
 > **交流群**：https://qm.qq.com/q/f7AF4aVyKW
 >
-> **生成日期**：2026-09-010
+> **生成日期**：2026-09-10
 >
 > **收录页面数**：130 个完整 API 文档页面
 
